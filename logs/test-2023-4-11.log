@@ -1,0 +1,23 @@
+{"level":"info","fileLogging":true,"jsonLogOutput":false,"logDirectory":"./logs","fileName":"test-2023-4-11.log","maxSizeMB":0,"maxBackups":1,"maxAgeInDays":1,"time":"2023-04-11T21:39:34+09:00","message":"logging configured"}
+{"level":"info","fileLogging":true,"jsonLogOutput":false,"logDirectory":"./logs","fileName":"test-2023-4-11.log","maxSizeMB":0,"maxBackups":1,"maxAgeInDays":1,"time":"2023-04-11T21:41:10+09:00","message":"logging configured"}
+{"level":"info","fileLogging":true,"jsonLogOutput":false,"logDirectory":"./logs","fileName":"test-2023-4-11.log","maxSizeMB":0,"maxBackups":1,"maxAgeInDays":1,"time":"2023-04-11T21:42:09+09:00","message":"logging configured"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:42:10+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:42:11+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:42:11+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:42:12+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:42:12+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:42:12+09:00","message":"request"}
+{"level":"info","fileLogging":true,"jsonLogOutput":false,"logDirectory":"./logs","fileName":"test-2023-4-11.log","maxSizeMB":0,"maxBackups":1,"maxAgeInDays":1,"time":"2023-04-11T21:42:25+09:00","message":"logging configured"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:42:26+09:00","message":"request"}
+{"level":"info","fileLogging":true,"jsonLogOutput":false,"logDirectory":"./logs","fileName":"test-2023-4-11.log","maxSizeMB":0,"maxBackups":1,"maxAgeInDays":1,"time":"2023-04-11T21:47:28+09:00","message":"logging configured"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:47:33+09:00","message":"request"}
+{"level":"info","fileLogging":true,"jsonLogOutput":false,"logDirectory":"./logs","fileName":"test-2023-4-11.log","maxSizeMB":0,"maxBackups":1,"maxAgeInDays":1,"time":"2023-04-11T21:54:20+09:00","message":"logging configured"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:54:23+09:00","message":"request"}
+{"level":"info","fileLogging":true,"jsonLogOutput":false,"logDirectory":"./logs","fileName":"test-2023-4-11.log","maxSizeMB":0,"maxBackups":1,"maxAgeInDays":1,"time":"2023-04-11T21:55:03+09:00","message":"logging configured"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:55:03+09:00","message":"request"}
+{"level":"info","fileLogging":true,"jsonLogOutput":false,"logDirectory":"./logs","fileName":"test-2023-4-11.log","maxSizeMB":0,"maxBackups":1,"maxAgeInDays":1,"time":"2023-04-11T21:56:38+09:00","message":"logging configured"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:56:42+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:57:44+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:58:01+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:58:14+09:00","message":"request"}
+{"level":"info","URI":"/api/restaurants","status":200,"time":"2023-04-11T21:58:23+09:00","message":"request"}
